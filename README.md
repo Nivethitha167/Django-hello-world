@@ -1,1 +1,2 @@
-# django-hello-world
+# Django-hello-world
++ Hello world app using Django.
